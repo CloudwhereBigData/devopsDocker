@@ -1,4 +1,4 @@
-FROM centos:centos6
+FROM Ubuntu:15.04
 
 MAINTAINER nigelpoulton@hotmail.com
 
